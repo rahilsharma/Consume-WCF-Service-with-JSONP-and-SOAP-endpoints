@@ -1,0 +1,5 @@
+C:\Users\jtorrecillas\Downloads\Consume WCF Service with JSONP and SOAP endpoints\MyClient\MyClient\bin\MyClient.dll
+C:\Users\jtorrecillas\Downloads\Consume WCF Service with JSONP and SOAP endpoints\MyClient\MyClient\bin\MyClient.pdb
+C:\Users\jtorrecillas\Downloads\Consume WCF Service with JSONP and SOAP endpoints\MyClient\MyClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jtorrecillas\Downloads\Consume WCF Service with JSONP and SOAP endpoints\MyClient\MyClient\obj\Debug\MyClient.dll
+C:\Users\jtorrecillas\Downloads\Consume WCF Service with JSONP and SOAP endpoints\MyClient\MyClient\obj\Debug\MyClient.pdb
